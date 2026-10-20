@@ -11,6 +11,9 @@ $(call inherit-product, device/xiaomi/sm8550-common/common.mk)
 # Inherit Google Camera
 $(call inherit-product-if-exists, vendor/google/GoogleCamera/config.mk)
 
+# Inherit MiuiCamera
+$(call inherit-product-if-exists, device/xiaomi/nuwa-miuicamera/device.mk)
+
 # Inherit Basic Call Recorder
 $(call inherit-product, vendor/bcr/bcr.mk)
 

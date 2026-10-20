@@ -2,5 +2,15 @@
   {
     "repository": "android_device_xiaomi_sm8550-common",
     "target_path": "device/xiaomi/sm8550-common"
-  }
+  },
+  {
+    "repository": "PixelOS-Nuwa/android_device_xiaomi_nuwa-miuicamera",
+    "target_path": "device/xiaomi/nuwa-miuicamera",
+    "branch": "seventeen"
+  },
+  {
+    "repository": "PixelOS-Nuwa/proprietary_vendor_xiaomi_nuwa-miuicamera",
+    "target_path": "vendor/xiaomi/nuwa-miuicamera",
+    "branch": "seventeen"
+  }, 
 ]
