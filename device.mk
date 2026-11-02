@@ -55,6 +55,7 @@ PRODUCT_PACKAGES += \
     SettingsOverlayNuwa \
     SettingsProviderResNuwa \
     SystemUIOverlayNuwa \
+    UpdaterOverlayNuwa \
     WifiResNuwa
 
 # PowerShare
