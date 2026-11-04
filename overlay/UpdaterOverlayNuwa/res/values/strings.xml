@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/updates_new.json</string>
-    <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/nuwa.md</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/API/updater/nuwa.json</string>
+    <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/API/updater/changelogs/nuwa.md</string>
 </resources>
