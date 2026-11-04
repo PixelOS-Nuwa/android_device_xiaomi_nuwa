@@ -2,4 +2,5 @@
 <resources>
     <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/API/updater/nuwa.json</string>
     <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/API/updater/changelogs/nuwa.md</string>
+    <string name="certified_prop_url" translatable="false">https://raw.githubusercontent.com/PixelOS-Nuwa/PixelOS-OTA/refs/heads/seventeen/API/updater/CertifiedProps/certified_build_props.apk</string>
 </resources>
