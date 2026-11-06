@@ -8,6 +8,9 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
+# Official build & updater configuration
+IS_OFFICIAL := true
+
 # Inherit from nuwa device
 $(call inherit-product, device/xiaomi/nuwa/device.mk)
 
